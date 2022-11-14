@@ -7,8 +7,6 @@ use kControls if you want to make the pannel round or Grideant this tool is so h
 
 Use this if you are confortable the latest version of netbeans Apache Netbeans Downlad Lastest Version: https://netbeans.apache.org/download/index.html
 
-Use this if you are confortable the 8.2 Version of netbeans, and i use this one Netbeans 8.2 https://drive.google.com/file/d/16jjJkWuJg_AlTblLOvW0DN9KeTYBmdIi/view?usp=sharing
-
-Java SE Development Kit this tools is very important to start the netbeans JDK-8u111-nb https://drive.google.com/file/d/1hVvaU4CEkSDy-1LXACENrfUXcOG-qB7Z/view?usp=sharing
+Use this if you are confortable the 8.2 Version of netbeans, and i used the latest virsionof apache netbeans https://drive.google.com/file/d/16jjJkWuJg_AlTblLOvW0DN9KeTYBmdIi/view?usp=sharing
 
 Follow me on Facebook ❤ : https://www.facebook.com/edward.villarin1432 Buy me a coffee (Paypal )❤ : villarinedward9@gmail.com
