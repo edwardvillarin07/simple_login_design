@@ -1,6 +1,4 @@
 # simple_login_design
-Simple design 
-
 ![99355f9a-64d5-4342-b06d-f42bcc440956](https://user-images.githubusercontent.com/75055546/201565765-f73a7adc-9053-49b0-a39e-d72e11dfefd5.jpg)
 
 
